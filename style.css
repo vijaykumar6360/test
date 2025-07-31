@@ -162,9 +162,9 @@ nav button {
 
 .secimg video {
     position: absolute;
-    top: 55px;
-    right: 0px;
-    width: 550px;
+    top: 58px;
+    right: 25px;
+    width: 462px;
 
 }
 
@@ -250,8 +250,8 @@ footer .question {
     }
 
     .secimg video {
-        width: 290px;
-        top: 20px;
+        width: 235px;
+        top: 40px;
     }
 
     section.first>div :nth-child(1) {
